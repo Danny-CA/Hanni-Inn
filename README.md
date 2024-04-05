@@ -3,10 +3,14 @@
 
 # Autores
 Carlos Daniel Camilo Aguilar
+
 José Ángel López Gutiérrez
 
 # Contacto
 mordexcamiloaguilar878689@gmail.com
+
+jalg030129@gmail.com
+
 
 
 # Licencia

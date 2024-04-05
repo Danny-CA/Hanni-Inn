@@ -1,5 +1,4 @@
 # Hanni-Inn
-[![aurora-polar-en-las-montanas-8458.jpg](https://i.postimg.cc/nzJ60pQQ/aurora-polar-en-las-montanas-8458.jpg)](https://postimg.cc/v10qmRhQ)
 
 # Autores
 Carlos Daniel Camilo Aguilar

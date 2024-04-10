@@ -26,7 +26,5 @@ decisiones. Este software buscará proporcionar una interfaz amigable y accesibl
 asegurando al mismo tiempo la integridad, seguridad y privacidad de los datos.
 
 # Bibliogtraphy
-- [https://github.com/googlemaps/google-maps-services-python](https://pypi.org/project/Mezzanine/)
-- [https://www.google.com.mx/maps?hl=es-419&tab=rl](https://github.com/stephenmcd/mezzanine)
-- [https://developers.google.com/maps](https://mezzanine.readthedocs.io/en/latest/overview.html)
+- [[https://github.com/googlemaps/google-maps-services-python](https://pypi.org/project/Mezzanine/)](https://github.com/stephenmcd/mezzanine)
 

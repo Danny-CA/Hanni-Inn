@@ -1,1 +1,13 @@
+Las instrucciones siguientes son independientes del sistema operativo que se desee usar, mientras se use python.
+
+primero se tiene que instalar pip desde una terminal:
+
+
+Windows : py get-pip.py
+
+Linux: python get-pip.py
+
+posterior a eso, se tiene que escrbir:
+
+pip install mezzanine  Posterior a eso se tiene que crear un directorio nuevo con el nombre del proyecto.
 

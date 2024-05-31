@@ -25,6 +25,46 @@ que permita el la gestión de información y procesos para el funcionamiento del
 # Seguimiento del proyecto 
 https://trello.com/b/lPbPLuok/oasis-urbano
 
-# Bibliogtraphy
-- [Tkinter]([https://github.com/stephenmcd/mezzanine](https://docs.python.org/es/3/library/tkinter.html))
+## Tecnologías Utilizadas
+
+- [Tkinter](https://docs.python.org/es/3/library/tkinter.html): Una biblioteca de interfaces gráficas para Python.
+- SQLite: Un sistema de gestión de bases de datos relacional.
+- [Mezzanine](https://github.com/stephenmcd/mezzanine): Un framework de contenido gestionado para Django, utilizado para futuras mejoras en la gestión del contenido del hotel.
+
+## Instalación
+
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/Danny-CA/Hanni-Inn.git
+    ```
+
+2. Navega al directorio del proyecto:
+    ```bash
+    cd Hanni-Inn
+    ```
+
+3. Instala las dependencias necesarias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Ejecuta la aplicación:
+    ```bash
+    python HOTEL_BOOKING.py
+    ```
+
+## Uso
+
+1. Abre la aplicación.
+2. Registra un nuevo usuario llenando todos los campos requeridos.
+3. Inicia sesión con tu ID de usuario y contraseña.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un "issue" para discutir cualquier cambio importante antes de hacer una solicitud de extracción.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 

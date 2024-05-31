@@ -20,10 +20,8 @@ seguimiento de tareas y proyectos, así como reportes financieros y de rendimien
 como el núcleo central del sistema, asegurando una organización y recuperación eficiente de la información.
 
 # Objetivo
-Desarrollar un software personalizado para un departamento específico que integre una base de datos robusta, 
-pero que también pueda ser escalable con el fin de mejorar la gestión de información, procesos, y toma de 
-decisiones. Este software buscará proporcionar una interfaz amigable y accesible para los usuarios, 
-asegurando al mismo tiempo la integridad, seguridad y privacidad de los datos.
+Desarrollar un software personalizado para un departamento específico que integre una base de datos, 
+que permita el la gestión de información y procesos para el funcionamiento del negocio. Este software buscará proporcionar una interfaz amigable y accesible para los usuarios asegurando al mismo tiempo la integridad, seguridad y privacidad de los datos.
 
 # Bibliogtraphy
 - [(https://pypi.org/project/Mezzanine/)](https://github.com/stephenmcd/mezzanine)

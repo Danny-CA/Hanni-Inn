@@ -22,6 +22,8 @@ como el núcleo central del sistema, asegurando una organización y recuperació
 # Objetivo
 Desarrollar un software personalizado para un departamento específico que integre una base de datos, 
 que permita el la gestión de información y procesos para el funcionamiento del negocio. Este software buscará proporcionar una interfaz amigable y accesible para los usuarios asegurando al mismo tiempo la integridad, seguridad y privacidad de los datos.
+# Seguimiento del proyecto 
+https://trello.com/b/lPbPLuok/oasis-urbano
 
 # Bibliogtraphy
 - [Tkinter]([https://github.com/stephenmcd/mezzanine](https://docs.python.org/es/3/library/tkinter.html))

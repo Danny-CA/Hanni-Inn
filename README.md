@@ -24,5 +24,5 @@ Desarrollar un software personalizado para un departamento específico que integ
 que permita el la gestión de información y procesos para el funcionamiento del negocio. Este software buscará proporcionar una interfaz amigable y accesible para los usuarios asegurando al mismo tiempo la integridad, seguridad y privacidad de los datos.
 
 # Bibliogtraphy
-- [(https://pypi.org/project/Mezzanine/)](https://github.com/stephenmcd/mezzanine)
+- [Tkinter]([https://github.com/stephenmcd/mezzanine](https://docs.python.org/es/3/library/tkinter.html))
 

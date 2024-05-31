@@ -29,7 +29,6 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 - [Tkinter](https://docs.python.org/es/3/library/tkinter.html): Una biblioteca de interfaces gráficas para Python.
 - SQLite: Un sistema de gestión de bases de datos relacional.
-- [Mezzanine](https://github.com/stephenmcd/mezzanine): Un framework de contenido gestionado para Django, utilizado para futuras mejoras en la gestión del contenido del hotel.
 
 ## Instalación
 
@@ -40,7 +39,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd Hanni-Inn
+    cd Hanni
     ```
 
 3. Instala las dependencias necesarias:

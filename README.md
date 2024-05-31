@@ -28,7 +28,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 ## Tecnologías Utilizadas
 
 - [Tkinter](https://docs.python.org/es/3/library/tkinter.html): Una biblioteca de interfaces gráficas para Python.
-- SQLite: Un sistema de gestión de bases de datos relacional.
+- [SQLite](https://www.sqlite.org/):  Un sistema de gestión de bases de datos relacional.
 
 ## Instalación
 

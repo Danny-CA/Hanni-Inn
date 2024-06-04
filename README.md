@@ -58,6 +58,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 2. Registra un nuevo usuario llenando todos los campos requeridos.
 3. Inicia sesión con tu ID de usuario y contraseña.
 
+(https://ibb.co/bRYyKsM)
+
 ## Licencia
 
 Este proyecto está bajo la Licencia [GNU](https://www.gnu.org/home.es.html) para más detalles.

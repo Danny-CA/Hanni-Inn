@@ -58,7 +58,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 2. Registra un nuevo usuario llenando todos los campos requeridos.
 3. Inicia sesión con tu ID de usuario y contraseña.
 
-[![Menu](https://ibb.co/bRYyKsM)]
+[![Captura-de-pantalla-2024-06-04-130233.png](https://i.postimg.cc/vHJ5PZbG/Captura-de-pantalla-2024-06-04-130233.png)](https://postimg.cc/xcPk8YXZ)
 
 ## Licencia
 

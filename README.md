@@ -60,6 +60,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 [![Captura-de-pantalla-2024-06-04-130233.png](https://i.postimg.cc/vHJ5PZbG/Captura-de-pantalla-2024-06-04-130233.png)](https://postimg.cc/xcPk8YXZ)
 
+[![Captura-de-pantalla-2024-06-04-130249.png](https://i.postimg.cc/BvVFKSYW/Captura-de-pantalla-2024-06-04-130249.png)](https://postimg.cc/Y4QjcHB8)
+
 ## Licencia
 
 Este proyecto está bajo la Licencia [GNU](https://www.gnu.org/home.es.html) para más detalles.

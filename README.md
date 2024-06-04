@@ -39,7 +39,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd Hanni
+    cd Hanni-Inn
     ```
 
 3. Instala las dependencias necesarias:
@@ -49,7 +49,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 4. Ejecuta la aplicación:
     ```bash
-    python HOTEL_BOOKING.py
+    python menú.py
     ```
 
 ## Uso
@@ -58,12 +58,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 2. Registra un nuevo usuario llenando todos los campos requeridos.
 3. Inicia sesión con tu ID de usuario y contraseña.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un "issue" para discutir cualquier cambio importante antes de hacer una solicitud de extracción.
-
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia[GNU](https://www.gnu.org/home.es.html) para más detalles.
 
 

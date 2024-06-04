@@ -60,6 +60,6 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 ## Licencia
 
-Este proyecto está bajo la Licencia[GNU](https://www.gnu.org/home.es.html) para más detalles.
+Este proyecto está bajo la Licencia [GNU](https://www.gnu.org/home.es.html) para más detalles.
 
 

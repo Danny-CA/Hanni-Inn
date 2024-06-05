@@ -84,6 +84,9 @@ https://trello.com/b/lPbPLuok/oasis-urbano
     ```bash
     python3 menú.py
     ```
+
+# Notas adicionales sistemas LINUX
+Es posible que el archivo no se muestre o crashee, esto debido a los paquetes y compatilibilidad de tkinter con nuestro kernel. por lo que en la línea 14 de español.py o english.py sea necesario cambiar el argumento 'zoomed' por 'normal' para evitar problemas.
 ## Uso
 
 1. Abre la aplicación.

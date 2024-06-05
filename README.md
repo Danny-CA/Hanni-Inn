@@ -78,7 +78,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
     ```
 5. Inserta el path de donde está el archivo para que sea traducido
     ```bash
-    sudo apt install dos2unix
+    dos2unix /RUTA/AL/ARCHIVO
     ```
 ## Uso
 

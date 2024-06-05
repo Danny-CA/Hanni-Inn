@@ -30,7 +30,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 - [Tkinter](https://docs.python.org/es/3/library/tkinter.html): Una biblioteca de interfaces gráficas para Python.
 - [SQLite](https://www.sqlite.org/):  Un sistema de gestión de bases de datos relacional.
 
-## Instalación
+## Instalación en sistemas Windows/DOS
 
 1. Clona este repositorio:
     ```bash
@@ -53,7 +53,33 @@ https://trello.com/b/lPbPLuok/oasis-urbano
     ```bash
     python3 menú.py
     ```
+## Instalación en sistemas UNIX
 
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/Danny-CA/Hanni-Inn.git
+    ```
+
+2. Navega al directorio del proyecto:
+    ```bash
+    cd Hanni-Inn
+  
+    cd Hanni-Inn
+    ```
+
+3. Instala las dependencias necesarias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Descarga e instala el conversor de texto plano dos2 unix
+    ```bash
+    sudo apt install dos2unix
+    ```
+5. Inserta el path de donde está el archivo para que sea traducido
+    ```bash
+    sudo apt install dos2unix
+    ```
 ## Uso
 
 1. Abre la aplicación.

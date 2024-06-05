@@ -1,10 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import subprocess
-
-#Parte actualizada añadida por ángel:
-#
-#Actualización de los paquetes necesarios para la ejecución y transformación
 import sys
 import os
 
@@ -34,31 +30,22 @@ def check_dos2unix():
         print("dos2unix no está instalado. Por favor, instálalo manualmente.")
         sys.exit(1)
 
-
-
-def main():
-    with open('requirements.txt', 'r') as file:
-        packages = file.readlines()
-
-    for package in packages:
-        package = package.strip()
-        if package:
-            install_or_update(package)
-
-    check_tkinter()
-    check_dos2unix()
-
-
 def execute_hotel_booking():
     try:
-        subprocess.run(['python3', 'scripts/español.py'])
+        if os.name == 'nt':
+            subprocess.run(['python', 'scripts/español.py'])
+        else:
+            subprocess.run(['python3', 'scripts/español_linux.py'])
         root.destroy()  # Cierra la ventana principal
     except Exception as e:
         messagebox.showerror("Error", f"An error occurred: {e}")
 
 def execute_prueba():
     try:
-        subprocess.run(['python', 'scripts/english.py'])
+        if os.name == 'nt':
+            subprocess.run(['python', 'scripts/english.py'])
+        else:
+            subprocess.run(['python3', 'scripts/english_linux.py'])
         root.destroy()  # Cierra la ventana principal
     except Exception as e:
         messagebox.showerror("Error", f"An error occurred: {e}") 
@@ -83,3 +70,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

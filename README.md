@@ -51,7 +51,7 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 4. Ejecuta la aplicación:
     ```bash
-    python menú.py
+    python3 menú.py
     ```
 
 ## Uso

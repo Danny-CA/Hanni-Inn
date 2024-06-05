@@ -41,6 +41,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
     ```bash
     cd Hanni-Inn
     ```
+    cd Hanni-Inn
+    ```
 
 3. Instala las dependencias necesarias:
     ```bash

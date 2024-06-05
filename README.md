@@ -40,6 +40,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 2. Navega al directorio del proyecto:
     ```bash
     cd Hanni-Inn
+
+    cd Hanni-Inn
       ```
 
 3. Instala las dependencias necesarias:
@@ -60,6 +62,8 @@ https://trello.com/b/lPbPLuok/oasis-urbano
 
 2. Navega al directorio del proyecto:
     ```bash
+    cd Hanni-Inn
+
     cd Hanni-Inn
     ```
 

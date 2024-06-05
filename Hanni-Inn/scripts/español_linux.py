@@ -11,7 +11,7 @@ from datetime import datetime
 class Hanni:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.state('zoomed') # Abre en pantalla completa
+        self.root.state('normal') # Abre en pantalla completa
         self.root.title("sistema de gestión Hanni-Inn")
         self.root.configure(bg="#F0F0FF")
         
@@ -228,7 +228,7 @@ class Hanni:
             previous_window.destroy()
 
         d = Toplevel()
-        d.state('zoomed')
+        d.state('normal')
         d.title("Hanni reservations")
         d.configure(bg="#F0F0FF")
 
@@ -329,7 +329,7 @@ class Hanni:
 
         def hotel_log_A():
             f = Toplevel()
-            f.state('zoomed')
+            f.state('normal')
             f.title("Hanni Reservations")
             f.configure(bg="#F0F0FF")
 # Label Widget
@@ -433,7 +433,7 @@ class Hanni:
 
         def book():
             e = Toplevel()
-            e.state('zoomed')
+            e.state('normal')
             e.title("Reservas")
             e.configure(bg="#F0F0FF")
             

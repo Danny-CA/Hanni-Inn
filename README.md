@@ -76,9 +76,13 @@ https://trello.com/b/lPbPLuok/oasis-urbano
     ```bash
     sudo apt install dos2unix
     ```
-5. Inserta el path de donde está el archivo para que sea traducido
+5. Inserta la ruta y nombre de donde están los archivos para que sean traducidos
     ```bash
     dos2unix /RUTA/AL/ARCHIVO
+    ```
+6. Ejecuta el menú
+    ```bash
+    python3 menú.py
     ```
 ## Uso
 

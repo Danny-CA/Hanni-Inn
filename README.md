@@ -99,6 +99,6 @@ Es posible que el archivo no se muestre o crashee, esto debido a los paquetes y 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [GNU](https://www.gnu.org/home.es.html) para más detalles.
+Este proyecto está bajo la Licencia [GNU](https://www.gnu.org/home.es.html).
 
 
